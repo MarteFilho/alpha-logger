@@ -1,0 +1,9 @@
+C:\Users\marco\Desktop\GloboTicket.Common\bin\Debug\netcoreapp3.1\GloboTicket.Common.deps.json
+C:\Users\marco\Desktop\GloboTicket.Common\bin\Debug\netcoreapp3.1\GloboTicket.Common.dll
+C:\Users\marco\Desktop\GloboTicket.Common\bin\Debug\netcoreapp3.1\GloboTicket.Common.pdb
+C:\Users\marco\Desktop\GloboTicket.Common\obj\Debug\netcoreapp3.1\GloboTicket.Common.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\GloboTicket.Common\obj\Debug\netcoreapp3.1\GloboTicket.Common.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\GloboTicket.Common\obj\Debug\netcoreapp3.1\GloboTicket.Common.AssemblyInfo.cs
+C:\Users\marco\Desktop\GloboTicket.Common\obj\Debug\netcoreapp3.1\GloboTicket.Common.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\GloboTicket.Common\obj\Debug\netcoreapp3.1\GloboTicket.Common.dll
+C:\Users\marco\Desktop\GloboTicket.Common\obj\Debug\netcoreapp3.1\GloboTicket.Common.pdb
