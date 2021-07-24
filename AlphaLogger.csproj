@@ -2,7 +2,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <PackageId>Alpha.Logger</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>marteFilho</Authors>
     <Company>marteFilho</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>

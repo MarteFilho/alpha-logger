@@ -4110,11 +4110,11 @@
     "C:\\Users\\marco\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco\\source\\repos\\alpha-logger\\AlphaLogger.Common.csproj",
+      "projectUniqueName": "C:\\Users\\marco\\source\\repos\\alpha-logger\\AlphaLogger.csproj",
       "projectName": "Alpha.Logger",
-      "projectPath": "C:\\Users\\marco\\source\\repos\\alpha-logger\\AlphaLogger.Common.csproj",
+      "projectPath": "C:\\Users\\marco\\source\\repos\\alpha-logger\\AlphaLogger.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marco\\source\\repos\\alpha-logger\\obj\\",
       "projectStyle": "PackageReference",

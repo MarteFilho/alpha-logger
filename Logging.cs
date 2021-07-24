@@ -12,8 +12,8 @@ namespace AlphaLogger.Common
 {
     public static class Logging
     {
-        public static Action<HostBuilderContext, LoggerConfiguration, IServiceProvider> ConfigureLogger =>
-           (hostingContext, loggerConfiguration, services) =>
+        public static Action<HostBuilderContext, IServiceProvider, LoggerConfiguration> ConfigureLogger =>
+           (hostingContext,services, loggerConfiguration) =>
            {
                var env = hostingContext.HostingEnvironment;
 

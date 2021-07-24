@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LUcJLREo65VK527XjSSFA6/+AX1LtubCesfy6KiYB1YOCreCwLcj9G2LZiQ9cn49WqPAOlk+kft+2TS62pDcXA==",
+  "dgSpecHash": "iXNUo1zW+31zJPgB+0F0HkNh8JrGeQlyEZpKA1pi4s0vX+vhM7oyRH/e7zc4CcN6ASZoLJUCyhyrKjTm0GnXSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marco\\source\\repos\\alpha-logger\\AlphaLogger.Common.csproj",
+  "projectFilePath": "C:\\Users\\marco\\source\\repos\\alpha-logger\\AlphaLogger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\elasticsearch.net\\7.8.1\\elasticsearch.net.7.8.1.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.applicationinsights\\2.12.0\\microsoft.applicationinsights.2.12.0.nupkg.sha512",

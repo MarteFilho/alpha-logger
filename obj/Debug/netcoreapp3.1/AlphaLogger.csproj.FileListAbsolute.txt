@@ -1,0 +1,9 @@
+C:\Users\marco\source\repos\alpha-logger\bin\Debug\netcoreapp3.1\AlphaLogger.deps.json
+C:\Users\marco\source\repos\alpha-logger\bin\Debug\netcoreapp3.1\AlphaLogger.dll
+C:\Users\marco\source\repos\alpha-logger\bin\Debug\netcoreapp3.1\AlphaLogger.pdb
+C:\Users\marco\source\repos\alpha-logger\obj\Debug\netcoreapp3.1\AlphaLogger.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\alpha-logger\obj\Debug\netcoreapp3.1\AlphaLogger.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\alpha-logger\obj\Debug\netcoreapp3.1\AlphaLogger.AssemblyInfo.cs
+C:\Users\marco\source\repos\alpha-logger\obj\Debug\netcoreapp3.1\AlphaLogger.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\alpha-logger\obj\Debug\netcoreapp3.1\AlphaLogger.dll
+C:\Users\marco\source\repos\alpha-logger\obj\Debug\netcoreapp3.1\AlphaLogger.pdb
